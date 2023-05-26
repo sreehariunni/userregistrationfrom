@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "id": 1,
+      "name": "sreehari",
+      "email": "sreehariunni2000@gmail.com",
+      "dob": "2023-05-02T18:30:00.000Z",
+      "gender": "Male",
+      "salary": 20
+    },
+    {
+      "id": 2,
+      "name": "aparna",
+      "email": "aparna2@gmail.com",
+      "dob": "2010-10-11T18:30:00.000Z",
+      "gender": "Female",
+      "salary": 5
+    },
+    {
+      "id": 3,
+      "name": "siva",
+      "email": "siva@gmail.com",
+      "dob": "1997-01-05T18:30:00.000Z",
+      "gender": "Male",
+      "salary": 13
+    },
+    {
+      "id": 4,
+      "name": "sreeDevi",
+      "email": "sreedevi123@gmail.com",
+      "dob": "1998-10-04T18:30:00.000Z",
+      "gender": "Female",
+      "salary": 13
+    },
+    {
+      "id": 5,
+      "name": "Manu",
+      "email": "manu121@gmail.com",
+      "dob": "1992-06-01T18:30:00.000Z",
+      "gender": "Male",
+      "salary": 5
+    },
+    {
+      "id": 6,
+      "name": "Binu",
+      "email": "binu55@gmail.com",
+      "dob": "2000-02-10T18:30:00.000Z",
+      "gender": "Male",
+      "salary": 9
+    }
+  ]
+}
